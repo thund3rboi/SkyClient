@@ -1,1 +1,45 @@
 PATCH NOTES
+===========
+
+<> 1.0 SkyClient Beta <>
+Added:
+- FPS Booster by removing useless code and rendering bugs.
+- XYZ Mod, shows your coordinates.
+- FPS Mod, shows your fps (Frames Per Second).
+- Keystokes mod, shows the keys you click.
+- Armour mod, shows your armour and its stats.
+- CPS Mod, shows your amount of CPS (Clicks Per Second).
+- BETA Testers recieve dragon wings.
+- Client.java set to default resource.
+- SkyClinet.java set to renderer.
+Removed:
+(Nothing was removed)
+Build Info:
+[] Build Date: 1/14/2020
+[] Build Time: 5:14PM CST
+[] Build Release: skyclient-beta1.0
+[] Build Version: beta1.0
+[] Build Registration: BETA
+[] Build: b1.00
+[] Author: key0000
+
+=============================================================
+
+<> 1.1 SkyClient Beta <>
+
+Added:
+- Re-did GUI and ingame interface.
+- Ingame flicker bug fixed.
+Removed:
+- BETA dragon wings until further notice (Bug Related).
+- The GUI option will be disabled until next update.
+Build Info:
+[] Build Date: 1/16/2020
+[] Build Time: 4:36PM CST
+[] Build Release: skyclient-beta1.1
+[] Build Version: beta1.1
+[] Build Registration: BETA
+[] Build: b1.01
+[] Author: key0001
+
+=============================================================
